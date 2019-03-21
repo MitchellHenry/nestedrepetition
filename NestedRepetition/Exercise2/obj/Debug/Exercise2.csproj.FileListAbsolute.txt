@@ -1,0 +1,6 @@
+C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\Exercise2\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache
+C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\Exercise2\obj\Debug\Exercise2.pdb
