@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
   <PropertyGroup>
-    <ProjectGuid>{ACEC826B-19A0-464F-ADC8-6F29CD8E1630}</ProjectGuid>
+    <ProjectGuid>{F6F9423F-36B2-4663-AAAE-CD2C413778B9}</ProjectGuid>
     <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NestedRepetition</RootNamespace>
-    <AssemblyName>NestedRepetition</AssemblyName>
+    <RootNamespace>Excercise1._</RootNamespace>
+    <AssemblyName>Excercise1.1</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <AppDesignerFolder>Properties</AppDesignerFolder>
   </PropertyGroup>

@@ -1,6 +1,0 @@
-C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\NestedRepetition\obj\Debug\NestedRepetition.csprojResolveAssemblyReference.cache
-C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\NestedRepetition\bin\Debug\NestedRepetition.exe.config
-C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\NestedRepetition\bin\Debug\NestedRepetition.exe
-C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\NestedRepetition\bin\Debug\NestedRepetition.pdb
-C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\NestedRepetition\obj\Debug\NestedRepetition.exe
-C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\NestedRepetition\obj\Debug\NestedRepetition.pdb
