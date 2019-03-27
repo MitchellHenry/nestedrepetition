@@ -14,11 +14,21 @@ namespace NestedRepetition
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("enter your name!");
+				string name = Console.ReadLine();
+				
+			 int count = 0;
+			while(count < 10){
+			 	string name2 = name;
+			 	int count2 = 0;
+			 	while(count2 < 9){
+			 		name2 = name2 + " " + name;
+			 		count2++;
+			 	}
+			 		
+				count++;
+				Console.WriteLine(name2);}
 			
-			// TODO: Implement Functionality Here
-			
-			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
 		}
 	}
