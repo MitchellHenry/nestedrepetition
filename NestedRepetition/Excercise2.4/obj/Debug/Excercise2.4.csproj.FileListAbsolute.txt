@@ -1,0 +1,5 @@
+C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\Excercise2.4\bin\Debug\Excercise2.4.exe.config
+C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\Excercise2.4\bin\Debug\Excercise2.4.exe
+C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\Excercise2.4\bin\Debug\Excercise2.4.pdb
+C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\Excercise2.4\obj\Debug\Excercise2.4.exe
+C:\Users\Mitchell\Documents\SharpDevelop Projects\NestedRepetition\nestedrepetition\NestedRepetition\Excercise2.4\obj\Debug\Excercise2.4.pdb
